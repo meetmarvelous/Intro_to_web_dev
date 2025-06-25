@@ -70,9 +70,6 @@ Each plays a critical role in building functional and visually appealing web app
 - Adds interactivity and functionality.  
 - Powers dynamic features like dropdown menus, sliders, and animations.  
 
-**Example:**  
-When you type *"do a barrel roll"* into Google, JavaScript makes the entire page spin.  
-
 ---
 
 ### HTML Basics  
@@ -122,5 +119,3 @@ There are six levels of headings:
 Use an online editor like [W3Schools Tryit Editor](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_default) to experiment with HTML.  
 
 ---
-
-This structured version removes timestamps, names, and repetitive elements while organizing the content logically for better readability. Let me know if you'd like any further refinements!

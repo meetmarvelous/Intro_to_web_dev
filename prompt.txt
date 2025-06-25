@@ -1,0 +1,17 @@
+To the next sessions
+
+Create a well detailed tutor lecture guide for the following in md format in a code snippet with practical examples
+
+For the following :
+
+Week 3: CSS Fundamentals
+Session 1:
+•	Introduction to CSS:
+o	Syntax and selectors
+o	Styling text and backgrounds
+o	Box model (margins, borders, padding)
+Session 2:
+•	Layout with CSS:
+o	Display properties (block, inline, inline-block)
+o	Positioning (relative, absolute, fixed)
+o	Flexbox basics
